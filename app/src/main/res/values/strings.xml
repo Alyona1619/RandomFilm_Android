@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RandomFilmApp</string>
+    <string name="rand_film">Показать случайный фильм</string>
+    <string name="reset">Сброс</string>
+
+    <string-array name="movies_array">
+        <item>Гордость и предубеждение</item>
+        <item>Форест Гамп</item>
+        <item>Паразиты</item>
+        <item>365 дней</item>
+        <item>Адвокат дъявола</item>
+        <item>Убить Билла</item>
+    </string-array>
+
+</resources>
